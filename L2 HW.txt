@@ -1,0 +1,6 @@
+# Properties of dataframes
+
+1. Dfs are made up of rows and columns
+2. Columns can be considered as a vector 
+3. Dataframe can contain data of different types, such as- numeric, character, float, integer etc.
+4. Logical and numeric operations can be done on them
